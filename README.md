@@ -64,62 +64,26 @@ struct Harshika: iOSDeveloper {
 ![UIKit](https://img.shields.io/badge/UIKit-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 
-**iOS Capabilities**
-
-![MapKit](https://img.shields.io/badge/MapKit-%23007AFF.svg?style=flat-square&logo=apple&logoColor=white)
-![Push Notifications](https://img.shields.io/badge/Push%20Notifications-%23FA7343.svg?style=flat-square&logo=apple&logoColor=white)
-![In‑App Purchases](https://img.shields.io/badge/In--App%20Purchases-%2334C759.svg?style=flat-square&logo=apple&logoColor=white)
-![Deep Linking](https://img.shields.io/badge/Deep%20Linking-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
-![Payment Gateway](https://img.shields.io/badge/Payment%20Gateway-%235851DB.svg?style=flat-square&logo=apple&logoColor=white)
-
-**Architecture**
-
-![MVVM](https://img.shields.io/badge/MVVM-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-%23444444.svg?style=flat-square&logo=apple&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23007AFF.svg?style=flat-square&logo=swift&logoColor=white)
-
-**Tools & DevOps**
-
-![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=flat-square&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-%23007AFF.svg?style=flat-square&logo=apple&logoColor=white)
-![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-%230D96F6.svg?style=flat-square&logo=appstore&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23181717.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat-square&logo=cursor&logoColor=white)
 
 </div>
 
 <br />
 
+
 ---
-
-  
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       PROFESSIONAL EXPERIENCE                             -->
+<!--                       Contribution Snake                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 💼 Professional Experience Highlights
+## ✦ Contribution Snake
 
-- 📱 **Shipped 5+ production iOS applications** to the App Store, serving real-world use cases including ride-hailing, food ordering, and event media sharing.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake.svg" />
+</picture>
 
-- ⚡ **Improved app launch time by 35%** through API optimization, lazy loading, and performance-focused architecture decisions.
-
-- 🚀 **Owned the complete App Store release lifecycle**, including code signing, provisioning profiles, TestFlight distribution, App Store Connect management, and production deployments.
-
-- 🗺️ **Built ride-hailing experiences with MapKit**, enabling real-time location tracking, route visualization, and live driver updates.
-
-- 💳 **Integrated key iOS capabilities** such as In-App Purchases, Push Notifications, Deep Linking, and Payment Gateway solutions.
-
-- 📲 **Developed cross-platform Flutter applications** for both iOS and Android, accelerating feature delivery while reducing platform-specific rework.
-
-- 🏗️ **Worked with MVVM, MVC, and Clean Architecture**, building scalable and maintainable mobile applications.
-
-- 🔄 **Collaborated across the full development lifecycle**, from feature planning and implementation to debugging, testing, and App Store releases.
-
-  
+---
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       PROJECTS SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
