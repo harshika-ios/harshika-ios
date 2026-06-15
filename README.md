@@ -32,11 +32,11 @@
 
 ```swift
 struct Harshika: iOSDeveloper {
-    let currently  = "Working on something exciting 🚀
-    let learning   = "Flutter cross-platform & advanced Swift Concurrency"
+    let currently  = "Working on something exciting 🚀"
+    let learning   = "Flutter cross-platform & Web Dev & advanced Swift topics"
     let shipped    = "5+ App Store apps — ride-hailing, food ordering, media sharing"
-    let collab     = "Open to iOS, Flutter & cross-platform projects"
-    let askMeAbout = ["Swift", "SwiftUI", "Flutter", "App Store", "MVVM"]
+    let collab     = "Open to iOS, Flutter & cross-platform projects & web applications (EU/remote welcome)"
+    let askMeAbout = ["Swift", "SwiftUI", "Flutter", "Web Apps"]
     let funFact    = "I reduced an app's launch time by 35% and never looked back ✦"
 }
 ```
