@@ -1,131 +1,144 @@
-# <div align="center">Hey, I'm Harshika 👋</div>
-
 <div align="center">
 
-### iOS Developer • SwiftUI Enthusiast • Mobile App Builder
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        HEADER SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-Building polished mobile experiences with **Swift**, **SwiftUI**, and **UIKit**.
+# Hi, I'm Harshika 👋
+
+### iOS Developer · Swift Enthusiast · UI/UX Thinker
+
+<p>
+  I craft <strong>beautiful, performant iOS experiences</strong> — turning ideas into elegant apps that feel native and delightful.
+</p>
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshika-sharma-ios/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_PORTFOLIO_URL)   -->
 
 </div>
 
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshika-sharma-ios/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshikasharma080@gmail.com)
-
-</div>
+<br />
 
 ---
 
-## ✨ About Me
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-```yaml
-Name: Harshika Sharma
-Role: iOS Developer
-Location: India 🇮🇳
+## ✦ About Me
 
-Current Focus:
-  - SwiftUI & Modern iOS Architecture
-  - Performance Optimization
-  - App Store Deployment
-  - Cross-Platform Development with Flutter
-
-Experience:
-  - 5+ Production Apps Shipped
-  - Swift, SwiftUI, UIKit
-  - REST APIs & Mobile Architecture
+```swift
+struct Harshika: iOSDeveloper {
+    let focus      = "Building polished, user-first iOS apps"
+    let currently  = "Working on something exciting 🚀"
+    let learning   = "SwiftUI advanced animations & Swift Concurrency"
+    let collab     = "Open to iOS & cross-platform projects"
+    let askMeAbout = ["Swift", "UIKit", "SwiftUI", "App Architecture"]
+    let funFact    = "I debug in the shower ✦"
+}
 ```
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-
-### iOS Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MapKit-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/In--App_Purchases-5A31F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Push_Notifications-FF3B30?style=for-the-badge"/>
-</p>
-
-### Architecture
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MVVM-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVC-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-10B981?style=for-the-badge"/>
-</p>
-
-### Cross Platform
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-### Tools & DevOps
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/App_Store_Connect-000000?style=for-the-badge"/>
-</p>
+<br />
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ✦ Tech Stack
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshika-ios&show_icons=true&hide_border=true&count_private=true"/>
+**Languages**
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshika-ios&layout=compact&hide_border=true"/>
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks & UI**
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
+![CoreData](https://img.shields.io/badge/Core%20Data-%23007AFF.svg?style=flat-square&logo=apple&logoColor=white)
+
+**Tools & Platforms**
+
+![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=flat-square&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![TestFlight](https://img.shields.io/badge/TestFlight-%23007AFF.svg?style=flat-square&logo=apple&logoColor=white)
+
+**Architecture & Patterns**
+
+![MVVM](https://img.shields.io/badge/MVVM-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23007AFF.svg?style=flat-square&logo=swift&logoColor=white)
 
 </div>
+
+<br />
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ✦ GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harshika-ios&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshika-ios&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshika-ios&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
+
+<br />
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshika-ios&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br />
 
 ---
 
-## 🤝 Let's Connect
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ✦ Let's Connect
 
 <div align="center">
 
-💼 LinkedIn → (https://www.linkedin.com/in/harshika-sharma-ios/)
+<p>I'm always open to interesting conversations, collaborations, and new opportunities.</p>
 
+<br />
 
-📧 [harshikasharma080@gmail.com](mailto:harshikasharma080@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshika-sharma-ios/)
+&nbsp;
+<!-- [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_PORTFOLIO_URL) -->
+
+<br />
+<br />
+
+<sub>⚡ Profile views &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=harshika-ios&color=blueviolet&style=flat-square)</sub>
 
 </div>
+
+<br />
 
 ---
 
 <div align="center">
-
-### Thanks for visiting! ⭐
-
-*"Building delightful mobile experiences, one commit at a time."*
-
+  <sub>Crafted with ♥ by Harshika · Updated 2025</sub>
 </div>
-
