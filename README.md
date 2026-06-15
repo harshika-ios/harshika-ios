@@ -6,16 +6,17 @@
 
 # Hi, I'm Harshika 👋
 
-### iOS Developer · Swift Enthusiast · UI/UX Thinker
+### iOS Developer · Swift & SwiftUI · Cross-Platform with Flutter
 
 <p>
-  I craft <strong>beautiful, performant iOS experiences</strong> — turning ideas into elegant apps that feel native and delightful.
+  I craft <strong>beautiful, high-performance mobile apps</strong> — shipped 5+ production apps on the App Store
+  across ride-hailing, food ordering, and media sharing. I care deeply about architecture, performance, and clean code.
 </p>
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshika-sharma-ios/)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_PORTFOLIO_URL)   -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshika-sharma-ios)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshikasharma080@gmail.com)
 
 </div>
 
@@ -31,12 +32,12 @@
 
 ```swift
 struct Harshika: iOSDeveloper {
-    let focus      = "Building polished, user-first iOS apps"
-    let currently  = "Working on something exciting 🚀"
-    let learning   = "SwiftUI advanced animations & Swift Concurrency"
-    let collab     = "Open to iOS & cross-platform projects"
-    let askMeAbout = ["Swift", "UIKit", "SwiftUI", "App Architecture"]
-    let funFact    = "I debug in the shower ✦"
+    let currently  = "Working on something exciting 🚀
+    let learning   = "Flutter cross-platform & advanced Swift Concurrency"
+    let shipped    = "5+ App Store apps — ride-hailing, food ordering, media sharing"
+    let collab     = "Open to iOS, Flutter & cross-platform projects"
+    let askMeAbout = ["Swift", "SwiftUI", "Flutter", "App Store", "MVVM"]
+    let funFact    = "I reduced an app's launch time by 35% and never looked back ✦"
 }
 ```
 
@@ -55,32 +56,99 @@ struct Harshika: iOSDeveloper {
 **Languages**
 
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
 **Frameworks & UI**
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
-![CoreData](https://img.shields.io/badge/Core%20Data-%23007AFF.svg?style=flat-square&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 
-**Tools & Platforms**
+**iOS Capabilities**
+
+![MapKit](https://img.shields.io/badge/MapKit-%23007AFF.svg?style=flat-square&logo=apple&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push%20Notifications-%23FA7343.svg?style=flat-square&logo=apple&logoColor=white)
+![In‑App Purchases](https://img.shields.io/badge/In--App%20Purchases-%2334C759.svg?style=flat-square&logo=apple&logoColor=white)
+![Deep Linking](https://img.shields.io/badge/Deep%20Linking-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
+![Payment Gateway](https://img.shields.io/badge/Payment%20Gateway-%235851DB.svg?style=flat-square&logo=apple&logoColor=white)
+
+**Architecture**
+
+![MVVM](https://img.shields.io/badge/MVVM-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%23444444.svg?style=flat-square&logo=apple&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23007AFF.svg?style=flat-square&logo=swift&logoColor=white)
+
+**Tools & DevOps**
 
 ![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=flat-square&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-%23007AFF.svg?style=flat-square&logo=apple&logoColor=white)
-
-**Architecture & Patterns**
-
-![MVVM](https://img.shields.io/badge/MVVM-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23007AFF.svg?style=flat-square&logo=swift&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-%230D96F6.svg?style=flat-square&logo=appstore&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23181717.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat-square&logo=cursor&logoColor=white)
 
 </div>
+
+<br />
+
+---
+
+  
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       PROFESSIONAL EXPERIENCE                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 💼 Professional Experience Highlights
+
+- 📱 **Shipped 5+ production iOS applications** to the App Store, serving real-world use cases including ride-hailing, food ordering, and event media sharing.
+
+- ⚡ **Improved app launch time by 35%** through API optimization, lazy loading, and performance-focused architecture decisions.
+
+- 🚀 **Owned the complete App Store release lifecycle**, including code signing, provisioning profiles, TestFlight distribution, App Store Connect management, and production deployments.
+
+- 🗺️ **Built ride-hailing experiences with MapKit**, enabling real-time location tracking, route visualization, and live driver updates.
+
+- 💳 **Integrated key iOS capabilities** such as In-App Purchases, Push Notifications, Deep Linking, and Payment Gateway solutions.
+
+- 📲 **Developed cross-platform Flutter applications** for both iOS and Android, accelerating feature delivery while reducing platform-specific rework.
+
+- 🏗️ **Worked with MVVM, MVC, and Clean Architecture**, building scalable and maintainable mobile applications.
+
+- 🔄 **Collaborated across the full development lifecycle**, from feature planning and implementation to debugging, testing, and App Store releases.
+
+  
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       PROJECTS SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ✦ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕐 Timesheet</h3>
+      <p>A web application for tracking and managing employee timesheets. Built with a clean, functional UI and practical workflow design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web%20App-%23000000.svg?style=flat-square&logo=safari&logoColor=white" />
+      </p>
+      <a href="https://github.com/harshika-ios/TimeSheet-">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Local Services</h3>
+      <p>A Flutter app connecting users with local service providers. Cross-platform delivery for both iOS and Android from a single codebase.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+      </p>
+      <a href="https://github.com/harshika-ios/local-service-app">View Repository →</a>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Also shipped at work:** [GathrSnaps](https://apps.apple.com/us/app/gathrsnaps/id6751324065) · [Los Rancheros Taco Shop](https://apps.apple.com/us/app/los-rancheros-taco-shop/id1592630409) · [NePlace Customer](https://apps.apple.com/us/app/neplace-customer/id6449942156) · [NePlace Driver](https://apps.apple.com/us/app/neplace-driver/id6470278589) — all live on the App Store.
 
 <br />
 
@@ -124,9 +192,9 @@ struct Harshika: iOSDeveloper {
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshika-sharma-ios/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshika-sharma-ios)
 &nbsp;
-<!-- [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_PORTFOLIO_URL) -->
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshikasharma080@gmail.com)
 
 <br />
 <br />
@@ -140,5 +208,5 @@ struct Harshika: iOSDeveloper {
 ---
 
 <div align="center">
-  <sub>Crafted with ♥ by Harshika · Updated 2025</sub>
+  <sub>Crafted with ♥ by Harshika</sub>
 </div>
