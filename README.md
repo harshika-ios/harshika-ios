@@ -10,7 +10,7 @@
 
 <p>
   I craft <strong>beautiful, high-performance mobile apps</strong> — shipped 5+ production apps on the App Store
-  across ride-hailing, food ordering, and media sharing. I care deeply about architecture, performance, and clean code.
+  across Ride-Hailing, Food ordering, and Media Sharing. I care deeply about architecture, performance, and clean code.
 </p>
 
 <br />
@@ -51,7 +51,7 @@ struct Harshika: iOSDeveloper {
 <!--                     GITHUB STATS SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## ✦ GitHub Stats
+<!-- ## ✦ GitHub Stats
 
 <div align="center">
 
@@ -69,34 +69,32 @@ struct Harshika: iOSDeveloper {
 
 </div>
 
-<br />
+<br /> 
 
----
+--- -->
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## ✦ Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages
 
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Frameworks & UI**
+### Frameworks & UI
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
-
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
-
-<br />
-
 
 ---
 
@@ -118,7 +116,7 @@ struct Harshika: iOSDeveloper {
 <!--                       PROJECTS SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## ✦ Featured Projects
+## ✦ Projects
 
 <table>
   <tr>
