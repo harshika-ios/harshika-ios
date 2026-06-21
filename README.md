@@ -48,6 +48,32 @@ struct Harshika: iOSDeveloper {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshika-ios&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshika-ios&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshika-ios&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -71,19 +97,6 @@ struct Harshika: iOSDeveloper {
 
 <br />
 
-
----
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       Contribution Snake                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## ✦ Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake.svg" />
-</picture>
 
 ---
 
@@ -136,30 +149,19 @@ struct Harshika: iOSDeveloper {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS SECTION                           -->
+<!--                       Contribution Snake                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## ✦ GitHub Stats
+## ✦ Contribution Snake
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshika-ios&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshika-ios&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harshika-ios&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/harshika-ios/harshika-ios/output/github-snake.svg" />
+</picture>
 
 ---
+
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                      CONNECT SECTION                               -->
