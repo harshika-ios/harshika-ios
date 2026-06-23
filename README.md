@@ -16,7 +16,7 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshika-sharma-ios)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://harshikasharma.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://harshikasharma.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshikasharma080@gmail.com)
 
 </div>
@@ -41,7 +41,7 @@ struct Harshika: iOSDeveloper {
     let funFact    = "I reduced an app's launch time by 35% and never looked back ✦"
 }
 ```
-🌐 Portfolio: https://harshikasharma.lovable.app/
+🌐 Portfolio: https://harshikasharma.vercel.app/
 
 <br />
 
@@ -109,7 +109,7 @@ struct Harshika: iOSDeveloper {
   <p>
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=safari&logoColor=white" />
   </p>
-  <a href="https://harshikasharma.lovable.app/">Visit Portfolio →</a>
+  <a href="https://harshikasharma.vercel.app/">Visit Portfolio →</a>
 </td>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -174,7 +174,7 @@ struct Harshika: iOSDeveloper {
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshika-sharma-ios)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://harshikasharma.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://harshikasharma.vercel.app/)
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshikasharma080@gmail.com)
 
 <br />
