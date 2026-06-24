@@ -33,7 +33,7 @@
 
 ```swift
 struct Harshika: iOSDeveloper {
-    let currently  = "Working on something exciting 🚀"
+    let currently  = "Building Meowl 🚀"
     let learning   = "Flutter cross-platform & Web Dev & advanced Swift topics"
     let shipped    = "5+ App Store apps — ride-hailing, food ordering, media sharing"
     let collab     = "Open to iOS, Flutter & cross-platform projects & web applications (EU/remote welcome)"
@@ -120,17 +120,27 @@ struct Harshika: iOSDeveloper {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>🐈 Meowl</h3>
+      <p>Currently building Meowl, an app for pet lovers to connect, share, and care for their furry companions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/iOS%20App-%23000000.svg?style=flat-square&logo=safari&logoColor=white" />
+      </p>
+      <a href="https://github.com/harshika-ios/meowl">View Repository →</a>
+    </td>
+
+  <td width="33%" valign="top">
       <h3>🕐 Timesheet</h3>
-      <p>A web application for tracking and managing employee timesheets. Built with a clean, functional UI and practical workflow design.</p>
+      <p>A web application for tracking and managing employee timesheets with a clean and efficient workflow.</p>
       <p>
         <img src="https://img.shields.io/badge/Web%20App-%23000000.svg?style=flat-square&logo=safari&logoColor=white" />
       </p>
       <a href="https://github.com/harshika-ios/TimeSheet-">View Repository →</a>
     </td>
-    <td width="50%" valign="top">
+
+  <td width="33%" valign="top">
       <h3>🛠️ Local Services</h3>
-      <p>A Flutter app connecting users with local service providers. Cross-platform delivery for both iOS and Android from a single codebase.</p>
+      <p>A Flutter app connecting users with local service providers across iOS and Android.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
@@ -139,6 +149,7 @@ struct Harshika: iOSDeveloper {
     </td>
   </tr>
 </table>
+
 
 > 💡 **Also shipped at work:** [GathrSnaps](https://apps.apple.com/us/app/gathrsnaps/id6751324065) · [Los Rancheros Taco Shop](https://apps.apple.com/us/app/los-rancheros-taco-shop/id1592630409) · [NePlace Customer](https://apps.apple.com/us/app/neplace-customer/id6449942156) · [NePlace Driver](https://apps.apple.com/us/app/neplace-driver/id6470278589) — all live on the App Store.
 
