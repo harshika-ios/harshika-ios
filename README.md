@@ -106,8 +106,6 @@ struct Harshika: iOSDeveloper {
 <td width="50%" valign="top">
   <h3>🌐 Personal Portfolio</h3>
   <p>A modern interactive portfolio showcasing my iOS development journey, projects, experience, skills, and professional achievements.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=safari&logoColor=white" />
   </p>
   <a href="https://harshikasharma.vercel.app/">Visit Portfolio →</a>
 </td>
